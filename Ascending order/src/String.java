@@ -1,3 +1,4 @@
+import java.lang.String;
 import java.util.Arrays;
 public class String {
 	public static void main(String args[])   
